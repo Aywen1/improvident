@@ -1,0 +1,21 @@
+Lingot fer
+iron_ingot
+8
+Lingot d'or
+gold_ingot
+12
+Diamants
+diamond
+3
+Charbon
+coal
+16
+Redstone
+redstone
+16
+Emeraude
+emerald
+4
+Lapis-Lazuli
+lapis_block
+2

@@ -1,0 +1,63 @@
+Herbes
+grass
+10
+Mycelium
+mycelium
+10
+Terre
+dirt
+16
+Terre stérile
+dirt 1
+10
+Podzol
+dirt 2
+10
+Pierre
+cobblestone
+16
+Pierre mous.
+mossy_cobblestone
+16
+Andesite
+stone 5
+16
+Granite
+stone 1
+16
+Diorite
+stone 3
+16
+Gravier
+gravel
+6
+Sable
+sand
+6
+Sable rouge
+sand 1
+6
+Argile
+clay_ball
+64
+Neige
+snow
+16
+Bloc de slime
+slime
+3
+Eponge
+sponge
+2
+Obsidienne
+obsidian
+2
+Glace compa.
+packed_ice
+12
+Eclat prisma.
+prismarine_shard
+16
+Cristaux pris.
+prismarine_crystals
+16

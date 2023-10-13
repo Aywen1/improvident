@@ -1,0 +1,1 @@
+give @p sand 10

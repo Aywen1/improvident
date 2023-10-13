@@ -1,0 +1,45 @@
+Oeuf vache
+spawn_egg Cow
+1
+Oeuf cochon
+spawn_egg Pig
+1
+Oeuf poule
+spawn_egg Chicken
+1
+Oeuf mouton
+spawn_egg Sheep
+1
+Oeuf lapin
+spawn_egg Rabbit
+1
+Oeuf cheval
+spawn_egg Horse
+1
+Oeuf ane
+spawn_egg Donkey
+1
+Oeuf lama
+spawn_egg Llama
+1
+Oeuf ocelot
+spawn_egg Ocelot
+1
+Oeuf loup
+spawn_egg Wolf
+1
+Oeuf perroqu.
+spawn_egg Parrot
+1
+Oeuf ours bla.
+spawn_egg Polar_Bear
+1
+Seau d'eau
+water_bucket
+1
+Seau de lave
+lava_bucket
+1
+Toile d'araign.
+web
+5

@@ -1,0 +1,96 @@
+Pousse chene
+sapling
+4
+Pousse sapin
+sapling 1
+4
+Pous. bouleau
+sapling 2
+4
+Pousse acajou
+sapling 3
+4
+Pousse acacia
+sapling 4
+4
+Pous. che. noir
+sapling 5
+4
+Champ. marron
+brown_mushroom
+2
+Champi. rouge
+red_mushroom
+2
+Grai. pasteque
+melon_seeds
+2
+Grai. citrouille
+pumpkin_seeds
+2
+Grai. betterave
+beetroot_seeds
+2
+Cactus
+cactus
+2
+Canne a sucre
+reeds
+2
+Cacao
+dye 3
+2
+Lianes
+vine
+2
+Nenuphar
+waterlily
+8
+Fougere
+tallgrass
+12
+Gran. fougere
+double_plant 3
+12
+Tournesol
+double_plant
+12
+Rosier
+double_plant 4
+12
+Lilas
+double_plant 1
+12
+Pivoine
+double_plant 5
+12
+Orchidee ble.
+red_flower 1
+12
+Allium
+red_flower 2
+12
+Houstonie bl.
+red_flower 3
+12
+Marguerite
+red_flower 8
+12
+Tulipe rouge
+red_flower 4
+12
+Tulipe orange
+red_flower 5
+12
+Tulipe rose
+red_flower 7
+12
+Tuli. blanche
+red_flower 6
+12
+Coquelicot
+red_flower
+12
+Pissenlit
+yellow_flower
+12

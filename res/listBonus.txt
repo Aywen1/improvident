@@ -1,0 +1,6 @@
+Mettre jour
+time set day
+5
+Mettre nuit
+time set night
+5
